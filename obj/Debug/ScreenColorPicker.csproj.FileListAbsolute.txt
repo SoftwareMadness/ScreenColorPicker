@@ -1,0 +1,9 @@
+C:\Users\ciesl\source\repos\ScreenColorPicker\bin\Debug\ScreenColorPicker.exe.config
+C:\Users\ciesl\source\repos\ScreenColorPicker\bin\Debug\ScreenColorPicker.exe
+C:\Users\ciesl\source\repos\ScreenColorPicker\bin\Debug\ScreenColorPicker.pdb
+C:\Users\ciesl\source\repos\ScreenColorPicker\obj\Debug\ScreenColorPicker.csprojAssemblyReference.cache
+C:\Users\ciesl\source\repos\ScreenColorPicker\obj\Debug\ScreenColorPicker.Form1.resources
+C:\Users\ciesl\source\repos\ScreenColorPicker\obj\Debug\ScreenColorPicker.Properties.Resources.resources
+C:\Users\ciesl\source\repos\ScreenColorPicker\obj\Debug\ScreenColorPicker.csproj.GenerateResource.cache
+C:\Users\ciesl\source\repos\ScreenColorPicker\obj\Debug\ScreenColorPicker.exe
+C:\Users\ciesl\source\repos\ScreenColorPicker\obj\Debug\ScreenColorPicker.pdb
